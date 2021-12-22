@@ -13,6 +13,10 @@ Content-Type: application/json
 body: {email,password}
 ```
 
+## Postman Documentation
+
+The postman documentation is hosted at [docs](https://documenter.getpostman.com/view/15366779/UVRDF56J)
+
 ## Install Dependencies
 
 ```
