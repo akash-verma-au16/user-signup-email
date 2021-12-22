@@ -2,13 +2,13 @@
 
 ## Demo
 
-The API is live at [userSignup]()
+The API is live at [userSignup](https://user-signup-email.herokuapp.com/)
 
 ## Request
 
 ```
 POST /register
-Host:
+Host: user-signup-email.herokuapp.com
 Content-Type: application/json
 body: {email,password}
 ```
